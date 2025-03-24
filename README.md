@@ -9,6 +9,6 @@ This Project is a Simple 5 Digit Number Generator That can be used in many Diffe
 
 -It is easy to Expand and Do more With my Program. Example: Making it Generate more digits, add letters ect...
 
--Be sure to Review The License Agreement Before downloading Any of The Files.
+-Be sure to Review The License Agreement Before downloading Any of The Files(https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 
