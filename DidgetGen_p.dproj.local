@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/28 18:32:14.000.354,=C:\Users\Keega\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/28 18:32:35.000.118,C:\Users\Keega\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Keega\OneDrive\Documents\IT DELPHI APPS\Didget Generator\DidgetGen_U.pas</Transaction>
+    <Transaction>2025/02/28 18:32:35.000.118,C:\Users\Keega\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Keega\OneDrive\Documents\IT DELPHI APPS\Didget Generator\DidgetGen_U.dfm</Transaction>
+    <Transaction>2025/02/28 18:32:44.000.318,C:\Users\Keega\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Keega\OneDrive\Documents\IT DELPHI APPS\Didget Generator\DidgetGen_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
